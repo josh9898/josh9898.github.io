@@ -5,7 +5,7 @@ body{
     background-image: url("./螢幕擷取畫面 (169).png");
     background-origin: border-box;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 90%;
 }
 p{
     font-size: 20px;
