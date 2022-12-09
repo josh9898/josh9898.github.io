@@ -37,7 +37,7 @@ input.text{
 .card{
     width: 60%;
     height: 30vh;
-    background-color: burlywood#deb887d6;
+    background-color: #deb887d6;
     position: relative; 
     left: 50%;
     transform: translate(-50%);
